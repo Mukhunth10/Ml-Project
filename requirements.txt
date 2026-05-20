@@ -51,4 +51,8 @@ requests
 python-dotenv
 pyyaml
 
+# MEP-specific calculations
+# Note: All MEP calculations are implemented in pure Python
+# No additional dependencies required
+
 -e .
