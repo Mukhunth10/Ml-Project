@@ -1,5 +1,54 @@
+# Core data processing
 pandas
 numpy
 seaborn
+
+# PDF and Document Processing
+PyPDF2
+pdf2image
+pdfplumber
+pypdf
+reportlab
+pillow
+
+# CAD and Drawing Processing
+ezdxf
+matplotlib
+
+# Computer Vision for measurements
+opencv-python
+scikit-image
+
+# IFC and Revit Integration
+ifcopenshell
+pythonnet  # For Revit API integration
+
+# Web Framework
+flask
+flask-cors
+fastapi
+uvicorn
+pydantic
+
+# Database
+sqlalchemy
+psycopg2-binary
+alembic
+
+# Excel/CSV Export
+openpyxl
+xlsxwriter
+
+# Geometric calculations
+shapely
+scipy
+
+# Standards and measurements
+pint  # Unit conversions
+
+# API and utilities
+requests
+python-dotenv
+pyyaml
 
 -e .
